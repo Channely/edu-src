@@ -14,8 +14,6 @@
         "point": 200,
         "order": 0
     },
-    "path": "JavaScript",
-    "course": "AngularJS",
     "section": "angular: template view",
     "files":[
         {
